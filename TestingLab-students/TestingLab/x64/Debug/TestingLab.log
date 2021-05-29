@@ -1,0 +1,8 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(499,5): warning MSB8004: Katalog Output nie kończy się ukośnikiem. To wystąpienie kompilacji doda ukośnik, ponieważ jest on niezbędny, aby możliwa była poprawna ocena katalogu Output.
+  TestingLab.cpp
+c1xx : error C2338: dwufazowe wyszukiwanie nazw nie jest obsługiwane w trybie C++/CLI ani C++/CX, użyj wartości /Zc:twoPhase-
+c1xx : fatal error C1903: nie można odzyskać od poprzedniego błędu(ów); zatrzymywanie kompilacji
+  .NETFramework,Version=v4.0.AssemblyAttributes.cpp
+c1xx : error C2338: dwufazowe wyszukiwanie nazw nie jest obsługiwane w trybie C++/CLI ani C++/CX, użyj wartości /Zc:twoPhase-
+c1xx : fatal error C1903: nie można odzyskać od poprzedniego błędu(ów); zatrzymywanie kompilacji
+  Generowanie kodu...
